@@ -7,7 +7,6 @@ theme: mini
 defaultContentLanguage: en
 
 # !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
-themesDir: ../../
 
 hasCJKLanguage: true
 permalinks:
