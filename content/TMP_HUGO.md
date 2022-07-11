@@ -1,3 +1,0 @@
-# TMP_HUGO
-
-Hmmm,
