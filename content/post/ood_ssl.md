@@ -1,7 +1,7 @@
 ---
 title: "Evaluation of Out-of-Distribution Detection Performance of Self-Supervised Learning in a Controllable Environment"
 date: 2020-11-13T16:43:02+09:00
-draft: true
+draft: false
 ---
 
 ## <center> NeurIPS 2020 Workshop: <br>Self-Supervised Learning - Theory and Practice</center>

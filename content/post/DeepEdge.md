@@ -1,7 +1,7 @@
 ---
 title: "Deep Edge-Aware Interactive Colorization against Color Bleeding Effects"
 date: 2021-11-13T16:00:04+09:00
-draft: true
+draft: false
 ---
 
 ## <center> ICCV 2021 (Oral) 🎉</center>
