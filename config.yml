@@ -35,20 +35,20 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  github: your-github-link
-  twitter: your-github-link
-  stackoverflow: your-github-link
+  # github: your-github-link
+  # twitter: your-github-link
+  # stackoverflow: your-github-link
   # facebook: your-facebook-link
 
 
 # Site parameters
 params:
   # Site Author
-  author: Author
+  author: Jeonghoon
   # Author biography
   bio: test cv page
   # Site Description, used in HTML meat
-  description: My Blog
+  description: Research Archive from Jeonghoon
 
 
   ###########################################
@@ -58,19 +58,19 @@ params:
   # To enable RSS, you could set `enableRSS: true`, default is `true`
   enableRSS: true
   # To enable comments, you may need to set `disqusShortname`
-  enableComments: true
+  enableComments: false
   # To enable comments, you may need to set `googleAnalytics`
   enableGoogleAnalytics: true
   # To enable table of content, you could set `showToc: true`, default is `false`
   showToc: false
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
-  showPowerBy: true
+  showPowerBy: false
   # To enable math typesetting , you could set `math: true`, default is `false`
   math: true
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
-  # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: '' 
+  # Website copy write, default: '© Copyright 2021 {params.author}'
+  copyright: '© Copyright 2021 Jeonghoon' 
 
   # Extra links in navigation
   links:
