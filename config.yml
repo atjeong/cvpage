@@ -46,7 +46,7 @@ params:
   # Site Author
   author: Jeonghoon
   # Author biography
-  bio: (test cv page) I am PhD student at Korea Advanced Institute of Science and Technology (KAIST) advised by Professor Jaegul Choo.
+  bio: I am a <b>PhD student</b> at Korea Advanced Institute of Science and Technology (<b>KAIST</b>) advised by <b>Professor Jaegul Choo</b>.
   # Site Description, used in HTML meat
   description: Research Archive from Jeonghoon
 
