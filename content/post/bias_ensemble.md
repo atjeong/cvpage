@@ -19,7 +19,7 @@ In image classification, "debiasing" aims to train a classifier to be less susce
 
 ## Method Overview
 
-![image-20220711170219161](/images/BE_overview.pdf)
+![](/images/BE_overview.pdf)
 
 ---
 
